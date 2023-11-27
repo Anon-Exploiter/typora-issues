@@ -1,8 +1,10 @@
 # Typora
 
-[Typora](http://typora.io) is a minimal markdown editor, providing new ways for reading and writing markdown. It is currently in beta.
+> Note: Our offical website is <https://typora.io> and <https://typoraio.cn>. All other websites without those two domain suffix is phishing site.
 
-Typora is commercial software (not open source), but is free during beta. [Typora on GitHub](https://github.com/typora) supports collaboration between its developer, [Abner Lee](http://abnerlee.github.io), and its *user community*, providing a place to transparently report issues, collect feedback and discuss future direction. It also provides open source resources for user customization of themes.
+[Typora](http://typora.io) is a minimal markdown editor, providing new ways for reading and writing markdown.
+
+Typora is commercial software (not open source). [Typora on GitHub](https://github.com/typora) supports collaboration between its developer, and its *user community*, providing a place to transparently report issues, collect feedback and discuss future direction. It also provides open source resources for user customization of themes.
 
 # The Typora Issues Repo
 
@@ -18,6 +20,7 @@ As a developer I want to make Typora perfect. I welcome all user ideas and opini
 2. If someone has, feel free to vote that issue up or add your own feedback in a comment.
 3. If not, click the `New Issue` button and explain. 
    -  For bug reports, **please provide your OS version, Typora version, and if possible, detailed steps to reproduce the bug**.
+   -  Please make sure your issue are searchabale (provide English key words or descriptions)
 
 If you have multiple bugs or requests that are not closely related, please separate them into different issues.
 
